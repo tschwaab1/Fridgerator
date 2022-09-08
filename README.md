@@ -7,6 +7,10 @@ Aim was to make a "Fridgerator", an Application that helps you to maintain kitch
 
 The basic function like Add, Delete, Update and Sort are working fine. The integration of a QR-Code scanner is not working yet but almost complete integrated.
 
+## Contact
+
+You can contact me if you have any doubts or questions: info@tschwaab.net
+
 ## Preview
 
 ![](https://github.com/tschwaab1/Fridgerator/blob/main/preview/Fridge.PNG)
